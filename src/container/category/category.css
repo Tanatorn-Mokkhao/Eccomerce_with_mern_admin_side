@@ -1,0 +1,9 @@
+.test {
+  text-align: start;
+}
+.test button {
+  float: right;
+  margin-top: 5px;
+  width: 80px;
+  height: 40px;
+}
